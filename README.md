@@ -1,2 +1,2 @@
 # vbs-scripting
-Some of my practice on VBS
+Some of my practices on VBS
